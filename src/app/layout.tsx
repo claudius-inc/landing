@@ -5,19 +5,19 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Clau Games | AI-Powered Games on ACP",
-  description: "Play gachapon games, get technical analysis, and win USDC. Powered by the Agent Commerce Protocol.",
+  title: "Claudius | AI Fortune Telling on ACP",
+  description: "Ancient wisdom meets modern AI. Omikuji, I Ching, Tarot, Runes, and more — fortune telling from around the world on the Agent Commerce Protocol.",
   openGraph: {
-    title: "Clau Games | AI-Powered Games on ACP",
-    description: "Play gachapon games, get technical analysis, and win USDC.",
+    title: "Claudius | AI Fortune Telling on ACP",
+    description: "Ancient wisdom meets modern AI. Fortune telling from Japan, China, Nordic lands, and beyond.",
     url: "https://claudiusinc.com",
-    siteName: "Clau Games",
+    siteName: "Claudius Inc",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Clau Games | AI-Powered Games on ACP",
-    description: "Play gachapon games, get technical analysis, and win USDC.",
+    title: "Claudius | AI Fortune Telling on ACP",
+    description: "Ancient wisdom meets modern AI. Fortune telling from around the world.",
   },
 };
 
